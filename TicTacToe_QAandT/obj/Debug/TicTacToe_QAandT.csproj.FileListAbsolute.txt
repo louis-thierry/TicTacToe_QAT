@@ -1,0 +1,9 @@
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\bin\Debug\TicTacToe_QAandT.exe.config
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\bin\Debug\TicTacToe_QAandT.exe
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\bin\Debug\TicTacToe_QAandT.pdb
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\obj\Debug\TicTacToe_QAandT.csprojResolveAssemblyReference.cache
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\obj\Debug\TicTacToe_QAandT.Form1.resources
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\obj\Debug\TicTacToe_QAandT.Properties.Resources.resources
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\obj\Debug\TicTacToe_QAandT.csproj.GenerateResource.Cache
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\obj\Debug\TicTacToe_QAandT.exe
+c:\users\tue96285\documents\visual studio 2015\Projects\TicTacToe_QAandT\TicTacToe_QAandT\obj\Debug\TicTacToe_QAandT.pdb
